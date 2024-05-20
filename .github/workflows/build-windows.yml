@@ -1,7 +1,7 @@
 # build-windows.yml
 # Reusable workflow that builds the Windows versions of Libation.
 ---
-name: build
+name: build-windows
 
 on:
   workflow_call:
