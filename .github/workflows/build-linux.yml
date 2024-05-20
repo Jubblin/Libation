@@ -1,7 +1,7 @@
 # build-linux.yml
 # Reusable workflow that builds the Linux and MacOS (x64 and arm64) versions of Libation.
 ---
-name: build
+name: build-linux
 
 on:
   workflow_call:
